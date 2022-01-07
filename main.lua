@@ -1,7 +1,7 @@
 -- RSN Development. 
 -- Example {title="Name of Blip", colour=5, id=ID OF blip, x = -347.291, y = -133.370, z = 38.009},
 -- Get your Blip IDS from https://docs.fivem.net/docs/game-references/blips/
-
+-- Im going to be updating this script soon. 
 
 local blips = {
 
